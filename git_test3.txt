@@ -2,4 +2,7 @@ Hello test3 on GitHub
 
 new
 new
-new
+delete
+
+new2
+new2
