@@ -3,3 +3,7 @@ some method...
 Hello Student
 some new method in student branch
 // Resolved merge conflict
+
+some new change
+need to leave temporary --> using Git stash command
+123
